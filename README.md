@@ -1,1 +1,1 @@
-# fonts-japanese-extra-VI
+1. Shippori Mincho
