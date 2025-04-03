@@ -1,2 +1,1 @@
- 
-3. [Shippori Mincho](https://github.com/fontdasu/ShipporiMincho/archive/refs/heads/master.zip)
+1. [Shippori Mincho](https://github.com/fontdasu/ShipporiMincho/archive/refs/heads/master.zip)
